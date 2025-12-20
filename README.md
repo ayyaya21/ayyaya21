@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alisala Tunleng (Yaya)</h1>
+<h1 align="center">Hi 👋, I'm Alisala Tunleng</h1>
 <h3 align="center">A passionate student from KMITL</h3>
 
 - 👨‍💻 All of my projects are available at [xxx](xxx)
