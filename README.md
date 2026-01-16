@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alisala Tunleng</h1>
 <h3 align="center">A passionate student from KMITL</h3>
 
-- 👨‍💻 All of my projects are available at [xxx](xxx)
-
 - 📫 How to reach me **a.alisala21@gmail.com**
 
-- 📄 Know about my experiences [xxx](xxx)
-
-- ⚡ Fun fact **xxx**
+- ⚡ Fun fact **I spent an entire day writing a script to automate a 5-minute task... just so I never have to do it manually again.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
